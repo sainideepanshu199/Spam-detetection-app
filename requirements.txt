@@ -3,3 +3,5 @@ pickle
 string
 nltk
 scikit-learn
+stopwords
+PorterStemmer
